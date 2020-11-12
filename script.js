@@ -26,7 +26,6 @@ const ActualItems = [
   },
 ];
 
-const items = document.querySelectorAll(".item");
 const rootNode = document.getElementById("root");
 
 const childGenerator = (bg, items) => {
